@@ -57,7 +57,7 @@ def perimeter(a):
 
 
 # Updates
-- [Rectangle functions added to Rectangle.py](https://github.com/Perlysha/lab2/0cd6abd734c748068138462c3b9c1d617ee4c134) <br>
+- [Rectangle functions added to Rectangle.py](https://github.com/Perlysha/lab2/commit/0cd6abd734c748068138462c3b9c1d617ee4c134) <br>
 >Hash: 0cd6abd734c748068138462c3b9c1d617ee4c134 <br>
 - Branch New_Features deleted <br>
 >Hash: lost.
