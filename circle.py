@@ -1,10 +1,10 @@
 import math
 
 
-def area(r):
+def Area_Circle(r):
     return math.pi * r * r
 
 
-def perimeter(r):
+def Perimeter_Circle(r):
     return 2 * math.pi * r
 
