@@ -57,6 +57,8 @@ def perimeter(a):
 
 
 # Updates
+- [Unittests created](https://github.com/Perlysha/lab2/commit/b45aeb86bab058c35eb6d72fb7b5f10681a5644d) <br>
+>Hash: b45aeb86bab058c35eb6d72fb7b5f10681a5644d
 - [README.md file Update](https://github.com/Perlysha/lab2/commit/c3806cdc0f099c5014efe86cf1c0fb4e4c311dbf) <br>
 >Hash: c3806cdc0f099c5014efe86cf1c0fb4e4c311dbf <br>
 - [Rectangle functions added to Rectangle.py](https://github.com/Perlysha/lab2/commit/0cd6abd734c748068138462c3b9c1d617ee4c134) <br>
